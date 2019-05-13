@@ -7,8 +7,8 @@
 	$ source env/bin/activate
 
 - 'gls' is a Django project, with a app named 'spa'. Fire the application using following cmd sequence,
-	$ cd gls
-	$ ./manage.py runserver
+	- $ cd gls
+	- $ ./manage.py runserver
 	
 - You shall go to your favorite browser to view application at the address,
 	http://127.0.0.1:8000/
